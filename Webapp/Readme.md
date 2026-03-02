@@ -16,6 +16,8 @@ Webapp
 ```
 
 Output :
-![Output](Assets/ouputresult.png)
+---
 ![Output](Assets/ouputresult1.png)
+![Output](Assets/ouputresult.png)
+
 
